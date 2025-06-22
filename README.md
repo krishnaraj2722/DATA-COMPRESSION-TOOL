@@ -109,3 +109,6 @@ Compressed:
 a3b3c4d2
 Decompressed:
 aaabbbccccdd
+
+#OUTPUT 
+![Image](https://github.com/user-attachments/assets/ffc54b6e-dc46-4579-8607-25c42df8157c)
